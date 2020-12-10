@@ -9,29 +9,36 @@ World War Z
 The Maze Runner , Scorch Trials , The Death Cure 														+2
 American Sniper
 Jupiter Ascending
+300
 Southpaw
 Oblivion
 The Martian
 Rise of the Planet of the Apes , Dawn of the Planet of the Apes ,War for the Planet of the Apes									+2
-Jurassic Park III , Jurassic World , Jurassic World: Fallen Kingdom
+Jurassic Park: 1,(2)The Lost World:, III , Jurassic World , Jurassic World: Fallen Kingdom									+4
 The Lord Of The Rings: The Fellowship of the Ring , The Two Towers , The Return of the King									+2
 Hobbit : An Unexpected Journey , The Desolation of Smaug , The Battle of the Five Armies									+2
 Teenage Mutant Ninja Turtles: 1 , Out of the Shadows 
 Fury
-Unbroken
+Unbroken: 1,Path to Redemption																	+1
 Attack on Titan , 2
 12 Rounds 3 Lockdown
 Elysium
 John Carter
-Wrath of the Titans , Clash of the Titans															+1
-Spring Break
+Clash of the Titans , Wrath of the Titans															+1
+Spring Breakers
 The 5th Wave
 Beasts of no Nation
-Saints & Soldiers - The Void
+Saints & Soldiers: 1, The Void																	+1
 Triple 9
 Olympus has Fallen , London has Fallen , Angel has Fallen 													+2
 Warcraft
-X-MEN Apocalypse , Logan																	+1
+X-Men: 1,X2,The Last Stand, Origins: Wolverine, First Class, Days of Future Past, Apocalypse									+6
+Dark Phoenix
+The Wolverine, Logan																		+1
+Deadpool 1, 2																			+1
+The New Mutants
+Spider-Man: 1,2,3
+The Amazing Spider-Man: 1,2																	+1
 Iron Man 1,2,3																			+2
 Guardians of the Galaxy , 2																	+1
 The Incredible Hulk
@@ -51,8 +58,8 @@ Justice League
 The Hunger Games: 1 , Catching Fire , Mockingjay – Part 1 , Mockingjay – Part 2											+3
 SnowWhite and the Huntsman , The Huntsman: Winter's War														+1
 Gods of Egypt
+Matrix: 1, 2, 3
 13 Hours
-DeadPool 1 , 2
 Kill Command
 Rocky 1,2,3,4,5 , Creed 1 , 2																	+6
 Central Intelligence
@@ -85,6 +92,7 @@ The Great Wall
 King Kong , Kong Skull Island																	+1
 The Magnificent 7
 Silence
+Pain & Gain
 Jason Bourne
 Life Unfriended
 John Wick 1 , 2 , 3																		+2
@@ -367,10 +375,16 @@ Love and Monsters
 Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Subsequent Moviefilm							+1
 That's my Boy
 The Croods
-The New Mutants
 Greenland
 Triggered
 The Imitation Game
+The Legend Is Born: Ip Man
+Ip Man: 1, 2, 3, Master Z: Ip Man Legacy, 4: The Finale														+4
+Legend
+Oceans: 11, 12, 13, 8																		+3
+Greyhound
+Radioactive
+Three Kings
 
 
-																 372 + 120 == 492
+																 387 + 139 == 526
