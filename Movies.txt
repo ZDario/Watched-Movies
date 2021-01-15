@@ -9,7 +9,7 @@ World War Z
 The Maze Runner , Scorch Trials , The Death Cure 														+2
 American Sniper
 Jupiter Ascending
-300
+300 , 300: Rise of an Empire																	+1
 Southpaw
 Oblivion
 The Martian
@@ -50,11 +50,15 @@ Doctor Strange
 Captain Marvel
 Black Panther
 Spider-Man: Homecoming , Far From Home																+1
-Suicide Squad
-Batman v Superman Dawn of Justice
 Man of Steel
+Batman v Superman Dawn: of Justice
+Suicide Squad
 Wonder Woman
 Justice League
+Aquaman
+Shazam!
+Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+Wonder Woman 1984
 The Hunger Games: 1 , Catching Fire , Mockingjay – Part 1 , Mockingjay – Part 2											+3
 SnowWhite and the Huntsman , The Huntsman: Winter's War														+1
 Gods of Egypt
@@ -66,9 +70,9 @@ Central Intelligence
 Hercules
 The Divergent Series: Divergent , Insurgent , Allegiant														+2
 Roaring Currents
-Independence Day
+Independence Day, Independence Day: Resurgence															+1
 Tomorrowland
-Expendables 3
+Expendables 1, 2, 3																		+2
 Tarzan
 Jungle Book
 Edge of Tomorrow
@@ -94,14 +98,14 @@ The Magnificent 7
 Silence
 Pain & Gain
 Jason Bourne
-Life Unfriended
+Life
+Unfriended, Unfriended: Dark Web																+1
 John Wick 1 , 2 , 3																		+2
 Avatar
-Atraction
 Ghost Shell
 Arrival
 The Lost City of Z
-Mummy
+The Mummy, The Mummy Returns, The Mummy: Tomb of the Dragon Emperor, The Mummy											+3
 King Arthur
 Alien Covenant
 Hacksaw Ridge
@@ -133,15 +137,14 @@ The Dark Tower
 Cult Of Chucky
 Girls Trip
 The Cabin in the Woods
-Pink Panther
-Mr. Bean
+The Pink Panther, 2																		+1
+Mr. Bean, Mr. Bean's Holiday																	+1
 Rush Hour 1 , 2 , 3																		+2
 Friends with Benefits
 The Edge of Seventeen
 Focus
 The Man with the Iron Heart
 Jungle
-Leon
 Overdrive
 What happened to Monday
 Kidnap
@@ -158,14 +161,14 @@ American Made
 Bright
 Beauty and the Beast
 Blade Runner 2049
-It
-Daddy's Home , 2
+It, It Chapter Two																		+1
+Daddy's Home , 2																		+1
 Wild Card
 F The Prom
 Life of PI
 When we First Met
 Get Hard
-Ride Along , 2
+Ride Along , 2																			+1
 Jumanji: Welcome to the Jungle , The Next Level															+1
 The Wolf of Wall Street
 Darkest Hour
@@ -180,7 +183,7 @@ The Shape of Water
 17 Again
 Voldemort: Origins of the Heir
 High School Musical: 1 , 2, 3: Senior Year															+2
-21 Jump Street , 22 Jump Street
+21 Jump Street , 22 Jump Street																	+1
 Just Getting Started
 Horrible Bosses , 2
 I Kill Giants
@@ -206,7 +209,7 @@ Vacation
 Tomb Raider 
 Love Simon
 Death Wish
-Neigbors 1,2
+Neighbors 1, 2 Sorority Rising																	+1
 Ready Player One
 Rampage
 Blockers
@@ -231,7 +234,6 @@ Tag
 Crazy, Stupid, Love
 The Big Short
 Valkyrie
-Ocean's Eight/8
 The Equalizer , 2																		+1
 The Nun
 The Meg
@@ -261,7 +263,6 @@ Papillon
 Instant Family
 Creed 1,2																			+1
 Bohemian Rhapsody
-Aquaman
 Mile 22
 Bird Box
 Superbad
@@ -271,7 +272,6 @@ The Perfect Date
 The Silence
 What Men Want
 Kralj Petar 1
-Shazam
 Pokemon Detective Pikachu
 Men in Black: International
 Long Shot
@@ -312,7 +312,6 @@ Harry Potter: and the Philosopher's Stone 1, and the Chamber of Secrets 2, and t
 Grown Ups 1, 2																			+1
 Contagion
 Carriers
-Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 Sonic the Hedgehog
 The Hunt
 The Banker
@@ -374,7 +373,7 @@ Mulan
 Love and Monsters
 Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Subsequent Moviefilm							+1
 That's my Boy
-The Croods
+The Croods, 2																			+1
 Greenland
 Triggered
 The Imitation Game
@@ -385,6 +384,28 @@ Oceans: 11, 12, 13, 8																		+3
 Greyhound
 Radioactive
 Three Kings
+Titanic
+Catwoman
+Constantine
+Tolkien
+Inglourious Bastards
+Thank you for your Service
+Lincoln
+The Irishman
+God of War
+Dr. Dolittle
+The Nutty Professor, Nutty Professor 2: The  Klumps														+1
+Mr. & Mrs. Smith
+Titanic
+Troy
+Skyline, Beyond Skyline, Skylines																+2
+Honest Thief
+Shadow In The Cloud
+Gravity
+Moonlight
+Freaky Friday
+Freaky
+School of Rock
 
 
-																 387 + 139 == 526
+																 408 + 158 == 566
