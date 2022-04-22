@@ -320,7 +320,7 @@ The Gentlemen
 The Theory of Everything
 The Twilight Saga: Twilight , New Moon , Eclipse , Breaking Dawn – Part 1 , Breaking Dawn – Part 2								+4
 Fruitvale Station
-The Fast and the Furious (1), 2 Fast 2 Furious (2), The Fast and the Furious: Tokyo Drift (3), Fast and Furious (4), Fast Five (5), Fast & Furious 6, Furious 7, The Fate of the Furious (8), Hobbs & Shaw																	+8
+The Fast and the Furious (1), 2 Fast 2 Furious (2), The Fast and the Furious: Tokyo Drift (3), Fast and Furious (4), Fast Five (5), Fast & Furious 6, Furious 7, The Fate of the Furious (8), Hobbs & Shaw, F9																	+9
 Better Luck Tommorow
 Django Unchained
 The Invisible Man
@@ -406,6 +406,93 @@ Moonlight
 Freaky Friday
 Freaky
 School of Rock
+Black Widow
+One Night in Miami
+The Tommorow War
+A Quiet Place II
+Hitman's Wife’s Bodyguard
+The Forever Purge
+In Time
+The Tomorrow War
+Snake Eyes: GI Joe Origins
+Coming To America
+Coming 2 America
+Nobody
+Tom Clancy's Without Remorse
+Freaky
+Ready or Not
+James Bond Casino Royale
+James Bond Quantum of Solace
+James Bond Skyfall
+James Bond Spectre
+James Bond No Time to Die
+Wrath of a Man
+Mortal Kombat
+Mortal Kombat
+Friends: The Reunion
+Kalashnikov
+Taken
+Godzilla
+Godzilla: King of the Monsters
+Godzilla vs. Kong
+The Courier
+Army of the Dead
+News of the World
+Honest Thief
+The Suicide Squad
+Les Visiteurs
+Les Visiteurs 2: Les Couloirs du temps
+Les Visiteurs 3 : La Révolution
+Stillwater
+No Sudden Move
+Don't Breathe
+Don't Breathe 2
+Free Guy
+The Curious Case of Benjamin Button
+Die Hard
+Die Hard 2
+Die Hard 3
+Live Free Or Die Hard
+Red Notice
+Shang Chi
+Venom: Let There Be Carnage
+The Last Duel
+The Matrix Ressurections
+Fight Club
+Don't Look Up
+Dune
+Harry Potter 20th Anniversary
+The Power Of The Dog
+The Family
+Captive State
+The Green Knight
+The Midnight Sky
+That's My Boy
+Spider-man: No Way Home
+BlackLight
+Dog
+The Adam Project
+The Contractor
+Moonfall
+Death on the Nile
+The King's Man
+Eternals
+House of Gucci
+Finch
+King Richard
+Gladiator
+All the Old Knives
 
 
-																 408 + 158 == 566
+Srpski:
+Mi Nismo Andjeli
+Mi Nismo Andjeli 2
+Mi Nismo Andjeli 3
+Ko To Tamo Peva
+Jasenovac
+Selo gori a baba se ceslja
+Mrtav Ladan
+Munje
+Kad Porastem Bicu Kengur
+
+																 493 + 159 == 652
